@@ -1,0 +1,479 @@
+{
+  "sucursal_id": "SUC004",
+  "nombre": "Hipermaxi - Blanco Galindo",
+  "dimensiones": {
+    "filas": 20,
+    "columnas": 25
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 12,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {
+      "id": "CAJ001",
+      "fila": 19,
+      "columna": 9
+    },
+    {
+      "id": "CAJ002",
+      "fila": 19,
+      "columna": 15
+    }
+  ],
+  "obstaculos": [
+    {
+      "fila": 3,
+      "columna": 4
+    },
+    {
+      "fila": 3,
+      "columna": 5
+    },
+    {
+      "fila": 3,
+      "columna": 6
+    },
+    {
+      "fila": 4,
+      "columna": 4
+    },
+    {
+      "fila": 4,
+      "columna": 5
+    },
+    {
+      "fila": 4,
+      "columna": 6
+    },
+    {
+      "fila": 5,
+      "columna": 4
+    },
+    {
+      "fila": 5,
+      "columna": 5
+    },
+    {
+      "fila": 5,
+      "columna": 6
+    },
+    {
+      "fila": 3,
+      "columna": 10
+    },
+    {
+      "fila": 3,
+      "columna": 11
+    },
+    {
+      "fila": 3,
+      "columna": 12
+    },
+    {
+      "fila": 4,
+      "columna": 10
+    },
+    {
+      "fila": 4,
+      "columna": 11
+    },
+    {
+      "fila": 4,
+      "columna": 12
+    },
+    {
+      "fila": 5,
+      "columna": 10
+    },
+    {
+      "fila": 5,
+      "columna": 11
+    },
+    {
+      "fila": 5,
+      "columna": 12
+    },
+    {
+      "fila": 3,
+      "columna": 16
+    },
+    {
+      "fila": 3,
+      "columna": 17
+    },
+    {
+      "fila": 3,
+      "columna": 18
+    },
+    {
+      "fila": 4,
+      "columna": 16
+    },
+    {
+      "fila": 4,
+      "columna": 17
+    },
+    {
+      "fila": 4,
+      "columna": 18
+    },
+    {
+      "fila": 5,
+      "columna": 16
+    },
+    {
+      "fila": 5,
+      "columna": 17
+    },
+    {
+      "fila": 5,
+      "columna": 18
+    },
+    {
+      "fila": 8,
+      "columna": 4
+    },
+    {
+      "fila": 8,
+      "columna": 5
+    },
+    {
+      "fila": 8,
+      "columna": 6
+    },
+    {
+      "fila": 9,
+      "columna": 4
+    },
+    {
+      "fila": 9,
+      "columna": 5
+    },
+    {
+      "fila": 9,
+      "columna": 6
+    },
+    {
+      "fila": 10,
+      "columna": 4
+    },
+    {
+      "fila": 10,
+      "columna": 5
+    },
+    {
+      "fila": 10,
+      "columna": 6
+    },
+    {
+      "fila": 8,
+      "columna": 10
+    },
+    {
+      "fila": 8,
+      "columna": 11
+    },
+    {
+      "fila": 8,
+      "columna": 12
+    },
+    {
+      "fila": 9,
+      "columna": 10
+    },
+    {
+      "fila": 9,
+      "columna": 11
+    },
+    {
+      "fila": 9,
+      "columna": 12
+    },
+    {
+      "fila": 10,
+      "columna": 10
+    },
+    {
+      "fila": 10,
+      "columna": 11
+    },
+    {
+      "fila": 10,
+      "columna": 12
+    },
+    {
+      "fila": 8,
+      "columna": 16
+    },
+    {
+      "fila": 8,
+      "columna": 17
+    },
+    {
+      "fila": 8,
+      "columna": 18
+    },
+    {
+      "fila": 9,
+      "columna": 16
+    },
+    {
+      "fila": 9,
+      "columna": 17
+    },
+    {
+      "fila": 9,
+      "columna": 18
+    },
+    {
+      "fila": 10,
+      "columna": 16
+    },
+    {
+      "fila": 10,
+      "columna": 17
+    },
+    {
+      "fila": 10,
+      "columna": 18
+    },
+    {
+      "fila": 13,
+      "columna": 4
+    },
+    {
+      "fila": 13,
+      "columna": 5
+    },
+    {
+      "fila": 13,
+      "columna": 6
+    },
+    {
+      "fila": 14,
+      "columna": 4
+    },
+    {
+      "fila": 14,
+      "columna": 5
+    },
+    {
+      "fila": 14,
+      "columna": 6
+    },
+    {
+      "fila": 15,
+      "columna": 4
+    },
+    {
+      "fila": 15,
+      "columna": 5
+    },
+    {
+      "fila": 15,
+      "columna": 6
+    },
+    {
+      "fila": 13,
+      "columna": 10
+    },
+    {
+      "fila": 13,
+      "columna": 11
+    },
+    {
+      "fila": 13,
+      "columna": 12
+    },
+    {
+      "fila": 14,
+      "columna": 10
+    },
+    {
+      "fila": 14,
+      "columna": 11
+    },
+    {
+      "fila": 14,
+      "columna": 12
+    },
+    {
+      "fila": 15,
+      "columna": 10
+    },
+    {
+      "fila": 15,
+      "columna": 11
+    },
+    {
+      "fila": 15,
+      "columna": 12
+    },
+    {
+      "fila": 13,
+      "columna": 16
+    },
+    {
+      "fila": 13,
+      "columna": 17
+    },
+    {
+      "fila": 13,
+      "columna": 18
+    },
+    {
+      "fila": 14,
+      "columna": 16
+    },
+    {
+      "fila": 14,
+      "columna": 17
+    },
+    {
+      "fila": 14,
+      "columna": 18
+    },
+    {
+      "fila": 15,
+      "columna": 16
+    },
+    {
+      "fila": 15,
+      "columna": 17
+    },
+    {
+      "fila": 15,
+      "columna": 18
+    }
+  ],
+  "zonas_productos": {
+    "lacteos": {
+      "fila": 3,
+      "columna": 3,
+      "productos": [
+        1,
+        5,
+        12,
+        13
+      ]
+    },
+    "panaderia": {
+      "fila": 3,
+      "columna": 8,
+      "productos": [
+        2
+      ]
+    },
+    "granos": {
+      "fila": 3,
+      "columna": 9,
+      "productos": [
+        3,
+        6,
+        22,
+        23
+      ]
+    },
+    "aceites": {
+      "fila": 3,
+      "columna": 14,
+      "productos": [
+        4
+      ]
+    },
+    "endulzantes": {
+      "fila": 3,
+      "columna": 15,
+      "productos": [
+        7
+      ]
+    },
+    "condimentos": {
+      "fila": 3,
+      "columna": 20,
+      "productos": [
+        8
+      ]
+    },
+    "limpieza": {
+      "fila": 8,
+      "columna": 3,
+      "productos": [
+        9
+      ]
+    },
+    "higiene": {
+      "fila": 8,
+      "columna": 8,
+      "productos": [
+        10,
+        11
+      ]
+    },
+    "frutas": {
+      "fila": 8,
+      "columna": 14,
+      "productos": [
+        14,
+        15
+      ]
+    },
+    "verduras": {
+      "fila": 8,
+      "columna": 20,
+      "productos": [
+        16,
+        17,
+        18
+      ]
+    },
+    "carnes": {
+      "fila": 13,
+      "columna": 3,
+      "productos": [
+        19,
+        20
+      ]
+    },
+    "pescados": {
+      "fila": 13,
+      "columna": 8,
+      "productos": [
+        21
+      ]
+    },
+    "bebidas": {
+      "fila": 13,
+      "columna": 14,
+      "productos": [
+        24,
+        25,
+        26
+      ]
+    },
+    "snacks": {
+      "fila": 13,
+      "columna": 20,
+      "productos": [
+        27,
+        28
+      ]
+    },
+    "conservas": {
+      "fila": 16,
+      "columna": 8,
+      "productos": [
+        29
+      ]
+    },
+    "salsas": {
+      "fila": 16,
+      "columna": 14,
+      "productos": [
+        30
+      ]
+    }
+  }
+}

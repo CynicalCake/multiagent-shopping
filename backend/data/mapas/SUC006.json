@@ -1,0 +1,402 @@
+{
+  "sucursal_id": "SUC006",
+  "nombre": "Hipermaxi - Panamericana",
+  "dimensiones": {
+    "filas": 22,
+    "columnas": 28
+  },
+  "entrada": {
+    "columna": 14,
+    "fila": 0,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {
+      "id": "CAJ004",
+      "fila": 21,
+      "columna": 7
+    },
+    {
+      "id": "CAJ005",
+      "fila": 21,
+      "columna": 3
+    },
+    {
+      "id": "CAJ006",
+      "fila": 21,
+      "columna": 22
+    }
+  ],
+  "obstaculos": [
+    {
+      "fila": 4,
+      "columna": 5
+    },
+    {
+      "fila": 4,
+      "columna": 6
+    },
+    {
+      "fila": 4,
+      "columna": 12
+    },
+    {
+      "fila": 4,
+      "columna": 13
+    },
+    {
+      "fila": 4,
+      "columna": 19
+    },
+    {
+      "fila": 4,
+      "columna": 20
+    },
+    {
+      "fila": 5,
+      "columna": 5
+    },
+    {
+      "fila": 5,
+      "columna": 6
+    },
+    {
+      "fila": 5,
+      "columna": 12
+    },
+    {
+      "fila": 5,
+      "columna": 13
+    },
+    {
+      "fila": 5,
+      "columna": 19
+    },
+    {
+      "fila": 5,
+      "columna": 20
+    },
+    {
+      "fila": 6,
+      "columna": 5
+    },
+    {
+      "fila": 6,
+      "columna": 6
+    },
+    {
+      "fila": 6,
+      "columna": 12
+    },
+    {
+      "fila": 6,
+      "columna": 13
+    },
+    {
+      "fila": 6,
+      "columna": 19
+    },
+    {
+      "fila": 6,
+      "columna": 20
+    },
+    {
+      "fila": 9,
+      "columna": 5
+    },
+    {
+      "fila": 9,
+      "columna": 6
+    },
+    {
+      "fila": 9,
+      "columna": 12
+    },
+    {
+      "fila": 9,
+      "columna": 13
+    },
+    {
+      "fila": 9,
+      "columna": 19
+    },
+    {
+      "fila": 9,
+      "columna": 20
+    },
+    {
+      "fila": 10,
+      "columna": 5
+    },
+    {
+      "fila": 10,
+      "columna": 6
+    },
+    {
+      "fila": 10,
+      "columna": 12
+    },
+    {
+      "fila": 10,
+      "columna": 13
+    },
+    {
+      "fila": 10,
+      "columna": 19
+    },
+    {
+      "fila": 10,
+      "columna": 20
+    },
+    {
+      "fila": 11,
+      "columna": 5
+    },
+    {
+      "fila": 11,
+      "columna": 6
+    },
+    {
+      "fila": 11,
+      "columna": 12
+    },
+    {
+      "fila": 11,
+      "columna": 13
+    },
+    {
+      "fila": 14,
+      "columna": 5
+    },
+    {
+      "fila": 14,
+      "columna": 6
+    },
+    {
+      "fila": 14,
+      "columna": 12
+    },
+    {
+      "fila": 14,
+      "columna": 13
+    },
+    {
+      "fila": 14,
+      "columna": 19
+    },
+    {
+      "fila": 14,
+      "columna": 20
+    },
+    {
+      "fila": 15,
+      "columna": 5
+    },
+    {
+      "fila": 15,
+      "columna": 6
+    },
+    {
+      "fila": 15,
+      "columna": 12
+    },
+    {
+      "fila": 15,
+      "columna": 13
+    },
+    {
+      "fila": 15,
+      "columna": 19
+    },
+    {
+      "fila": 15,
+      "columna": 20
+    },
+    {
+      "fila": 16,
+      "columna": 5
+    },
+    {
+      "fila": 16,
+      "columna": 6
+    },
+    {
+      "fila": 16,
+      "columna": 12
+    },
+    {
+      "fila": 16,
+      "columna": 13
+    },
+    {
+      "fila": 16,
+      "columna": 19
+    },
+    {
+      "fila": 16,
+      "columna": 20
+    }
+  ],
+  "zonas_productos": {
+    "Aceites": {
+      "columna": 11,
+      "fila": 6,
+      "productos": [
+        4
+      ]
+    },
+    "Bebidas": {
+      "columna": 7,
+      "fila": 15,
+      "productos": [
+        23,
+        25,
+        26
+      ]
+    },
+    "Carnes": {
+      "columna": 18,
+      "fila": 9,
+      "productos": [
+        18,
+        19,
+        20
+      ]
+    },
+    "Cereales": {
+      "columna": 21,
+      "fila": 15,
+      "productos": [
+        34,
+        35
+      ]
+    },
+    "Condimentos": {
+      "columna": 21,
+      "fila": 5,
+      "productos": [
+        8
+      ]
+    },
+    "Conservas": {
+      "columna": 14,
+      "fila": 16,
+      "productos": [
+        29,
+        30,
+        31
+      ]
+    },
+    "Endulzantes": {
+      "columna": 18,
+      "fila": 4,
+      "productos": [
+        7,
+        24
+      ]
+    },
+    "Enlatados": {
+      "columna": 4,
+      "fila": 14,
+      "productos": [
+        21,
+        22
+      ]
+    },
+    "Frutas": {
+      "columna": 11,
+      "fila": 9,
+      "productos": [
+        13,
+        14,
+        15
+      ]
+    },
+    "Granos 2": {
+      "columna": 14,
+      "fila": 5,
+      "productos": [
+        3,
+        6
+      ]
+    },
+    "Granos y Pastas": {
+      "columna": 11,
+      "fila": 4,
+      "productos": [
+        3,
+        6
+      ]
+    },
+    "Higiene": {
+      "columna": 7,
+      "fila": 10,
+      "productos": [
+        11,
+        12
+      ]
+    },
+    "Limpieza": {
+      "columna": 4,
+      "fila": 9,
+      "productos": [
+        9,
+        10
+      ]
+    },
+    "Lácteos 2": {
+      "columna": 7,
+      "fila": 4,
+      "productos": [
+        1,
+        5
+      ]
+    },
+    "Lácteos y Huevos": {
+      "columna": 4,
+      "fila": 4,
+      "productos": [
+        1,
+        5
+      ]
+    },
+    "Panadería": {
+      "columna": 4,
+      "fila": 5,
+      "productos": [
+        2
+      ]
+    },
+    "Panadería 2": {
+      "columna": 7,
+      "fila": 6,
+      "productos": [
+        2
+      ]
+    },
+    "Salsas": {
+      "columna": 18,
+      "fila": 14,
+      "productos": [
+        32,
+        33
+      ]
+    },
+    "Snacks": {
+      "columna": 11,
+      "fila": 14,
+      "productos": [
+        27,
+        28
+      ]
+    },
+    "Verduras": {
+      "columna": 14,
+      "fila": 11,
+      "productos": [
+        16,
+        17
+      ]
+    }
+  }
+}

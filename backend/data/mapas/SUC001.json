@@ -1,0 +1,65 @@
+{
+  "sucursal_id": "SUC001",
+  "nombre": "Hipermaxi - Circunvalación",
+  "dimensiones": {
+    "filas": 20,
+    "columnas": 30
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 15,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {"id": "CAJ001", "fila": 19, "columna": 10},
+    {"id": "CAJ002", "fila": 19, "columna": 15},
+    {"id": "CAJ003", "fila": 19, "columna": 20}
+  ],
+  "obstaculos": [
+    {"fila": 3, "columna": 5}, {"fila": 3, "columna": 6}, {"fila": 3, "columna": 7},
+    {"fila": 4, "columna": 5}, {"fila": 4, "columna": 6}, {"fila": 4, "columna": 7},
+    {"fila": 5, "columna": 5}, {"fila": 5, "columna": 6}, {"fila": 5, "columna": 7},
+    {"fila": 3, "columna": 12}, {"fila": 3, "columna": 13}, {"fila": 3, "columna": 14},
+    {"fila": 4, "columna": 12}, {"fila": 4, "columna": 13}, {"fila": 4, "columna": 14},
+    {"fila": 5, "columna": 12}, {"fila": 5, "columna": 13}, {"fila": 5, "columna": 14},
+    {"fila": 3, "columna": 19}, {"fila": 3, "columna": 20}, {"fila": 3, "columna": 21},
+    {"fila": 4, "columna": 19}, {"fila": 4, "columna": 20}, {"fila": 4, "columna": 21},
+    {"fila": 5, "columna": 19}, {"fila": 5, "columna": 20}, {"fila": 5, "columna": 21},
+    {"fila": 8, "columna": 5}, {"fila": 8, "columna": 6}, {"fila": 8, "columna": 7},
+    {"fila": 9, "columna": 5}, {"fila": 9, "columna": 6}, {"fila": 9, "columna": 7},
+    {"fila": 10, "columna": 5}, {"fila": 10, "columna": 6}, {"fila": 10, "columna": 7},
+    {"fila": 8, "columna": 12}, {"fila": 8, "columna": 13}, {"fila": 8, "columna": 14},
+    {"fila": 9, "columna": 12}, {"fila": 9, "columna": 13}, {"fila": 9, "columna": 14},
+    {"fila": 10, "columna": 12}, {"fila": 10, "columna": 13}, {"fila": 10, "columna": 14},
+    {"fila": 8, "columna": 19}, {"fila": 8, "columna": 20}, {"fila": 8, "columna": 21},
+    {"fila": 9, "columna": 19}, {"fila": 9, "columna": 20}, {"fila": 9, "columna": 21},
+    {"fila": 10, "columna": 19}, {"fila": 10, "columna": 20}, {"fila": 10, "columna": 21},
+    {"fila": 13, "columna": 5}, {"fila": 13, "columna": 6}, {"fila": 13, "columna": 7},
+    {"fila": 14, "columna": 5}, {"fila": 14, "columna": 6}, {"fila": 14, "columna": 7},
+    {"fila": 15, "columna": 5}, {"fila": 15, "columna": 6}, {"fila": 15, "columna": 7},
+    {"fila": 13, "columna": 12}, {"fila": 13, "columna": 13}, {"fila": 13, "columna": 14},
+    {"fila": 14, "columna": 12}, {"fila": 14, "columna": 13}, {"fila": 14, "columna": 14},
+    {"fila": 15, "columna": 12}, {"fila": 15, "columna": 13}, {"fila": 15, "columna": 14},
+    {"fila": 13, "columna": 19}, {"fila": 13, "columna": 20}, {"fila": 13, "columna": 21},
+    {"fila": 14, "columna": 19}, {"fila": 14, "columna": 20}, {"fila": 14, "columna": 21},
+    {"fila": 15, "columna": 19}, {"fila": 15, "columna": 20}, {"fila": 15, "columna": 21}
+  ],
+  "zonas_productos": {
+    "lacteos": {"fila": 3, "columna": 4, "productos": [1, 5, 12, 13]},
+    "panaderia": {"fila": 3, "columna": 8, "productos": [2]},
+    "granos": {"fila": 3, "columna": 11, "productos": [3, 6, 22, 23]},
+    "aceites": {"fila": 3, "columna": 15, "productos": [4]},
+    "endulzantes": {"fila": 3, "columna": 18, "productos": [7]},
+    "condimentos": {"fila": 3, "columna": 22, "productos": [8]},
+    "limpieza": {"fila": 8, "columna": 4, "productos": [9]},
+    "higiene": {"fila": 8, "columna": 8, "productos": [10, 11]},
+    "frutas": {"fila": 8, "columna": 11, "productos": [14, 15]},
+    "verduras": {"fila": 8, "columna": 15, "productos": [16, 17, 18]},
+    "carnes": {"fila": 8, "columna": 18, "productos": [19, 20]},
+    "pescados": {"fila": 8, "columna": 22, "productos": [21]},
+    "bebidas": {"fila": 13, "columna": 4, "productos": [24, 25, 26]},
+    "snacks": {"fila": 13, "columna": 8, "productos": [27, 28]},
+    "conservas": {"fila": 13, "columna": 11, "productos": [29]},
+    "salsas": {"fila": 13, "columna": 15, "productos": [30]}
+  }
+}

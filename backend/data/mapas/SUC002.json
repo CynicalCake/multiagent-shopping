@@ -1,0 +1,928 @@
+{
+  "sucursal_id": "SUC002",
+  "nombre": "Hipermaxi - Torres Sófer",
+  "dimensiones": {
+    "filas": 25,
+    "columnas": 35
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 17,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {
+      "id": "CAJ001",
+      "fila": 24,
+      "columna": 12
+    },
+    {
+      "id": "CAJ002",
+      "fila": 24,
+      "columna": 17
+    },
+    {
+      "id": "CAJ003",
+      "fila": 24,
+      "columna": 22
+    }
+  ],
+  "obstaculos": [
+    {
+      "fila": 3,
+      "columna": 5
+    },
+    {
+      "fila": 3,
+      "columna": 6
+    },
+    {
+      "fila": 3,
+      "columna": 7
+    },
+    {
+      "fila": 3,
+      "columna": 8
+    },
+    {
+      "fila": 4,
+      "columna": 5
+    },
+    {
+      "fila": 4,
+      "columna": 6
+    },
+    {
+      "fila": 4,
+      "columna": 7
+    },
+    {
+      "fila": 4,
+      "columna": 8
+    },
+    {
+      "fila": 5,
+      "columna": 5
+    },
+    {
+      "fila": 5,
+      "columna": 6
+    },
+    {
+      "fila": 5,
+      "columna": 7
+    },
+    {
+      "fila": 5,
+      "columna": 8
+    },
+    {
+      "fila": 6,
+      "columna": 5
+    },
+    {
+      "fila": 6,
+      "columna": 6
+    },
+    {
+      "fila": 6,
+      "columna": 7
+    },
+    {
+      "fila": 6,
+      "columna": 8
+    },
+    {
+      "fila": 3,
+      "columna": 13
+    },
+    {
+      "fila": 3,
+      "columna": 14
+    },
+    {
+      "fila": 3,
+      "columna": 15
+    },
+    {
+      "fila": 3,
+      "columna": 16
+    },
+    {
+      "fila": 4,
+      "columna": 13
+    },
+    {
+      "fila": 4,
+      "columna": 14
+    },
+    {
+      "fila": 4,
+      "columna": 15
+    },
+    {
+      "fila": 4,
+      "columna": 16
+    },
+    {
+      "fila": 5,
+      "columna": 13
+    },
+    {
+      "fila": 5,
+      "columna": 14
+    },
+    {
+      "fila": 5,
+      "columna": 15
+    },
+    {
+      "fila": 5,
+      "columna": 16
+    },
+    {
+      "fila": 6,
+      "columna": 13
+    },
+    {
+      "fila": 6,
+      "columna": 14
+    },
+    {
+      "fila": 6,
+      "columna": 15
+    },
+    {
+      "fila": 6,
+      "columna": 16
+    },
+    {
+      "fila": 3,
+      "columna": 21
+    },
+    {
+      "fila": 3,
+      "columna": 22
+    },
+    {
+      "fila": 3,
+      "columna": 23
+    },
+    {
+      "fila": 3,
+      "columna": 24
+    },
+    {
+      "fila": 4,
+      "columna": 21
+    },
+    {
+      "fila": 4,
+      "columna": 22
+    },
+    {
+      "fila": 4,
+      "columna": 23
+    },
+    {
+      "fila": 4,
+      "columna": 24
+    },
+    {
+      "fila": 5,
+      "columna": 21
+    },
+    {
+      "fila": 5,
+      "columna": 22
+    },
+    {
+      "fila": 5,
+      "columna": 23
+    },
+    {
+      "fila": 5,
+      "columna": 24
+    },
+    {
+      "fila": 6,
+      "columna": 21
+    },
+    {
+      "fila": 6,
+      "columna": 22
+    },
+    {
+      "fila": 6,
+      "columna": 23
+    },
+    {
+      "fila": 6,
+      "columna": 24
+    },
+    {
+      "fila": 3,
+      "columna": 29
+    },
+    {
+      "fila": 3,
+      "columna": 30
+    },
+    {
+      "fila": 3,
+      "columna": 31
+    },
+    {
+      "fila": 3,
+      "columna": 32
+    },
+    {
+      "fila": 4,
+      "columna": 29
+    },
+    {
+      "fila": 4,
+      "columna": 30
+    },
+    {
+      "fila": 4,
+      "columna": 31
+    },
+    {
+      "fila": 4,
+      "columna": 32
+    },
+    {
+      "fila": 5,
+      "columna": 29
+    },
+    {
+      "fila": 5,
+      "columna": 30
+    },
+    {
+      "fila": 5,
+      "columna": 31
+    },
+    {
+      "fila": 5,
+      "columna": 32
+    },
+    {
+      "fila": 6,
+      "columna": 29
+    },
+    {
+      "fila": 6,
+      "columna": 30
+    },
+    {
+      "fila": 6,
+      "columna": 31
+    },
+    {
+      "fila": 6,
+      "columna": 32
+    },
+    {
+      "fila": 9,
+      "columna": 5
+    },
+    {
+      "fila": 9,
+      "columna": 6
+    },
+    {
+      "fila": 9,
+      "columna": 7
+    },
+    {
+      "fila": 9,
+      "columna": 8
+    },
+    {
+      "fila": 10,
+      "columna": 5
+    },
+    {
+      "fila": 10,
+      "columna": 6
+    },
+    {
+      "fila": 10,
+      "columna": 7
+    },
+    {
+      "fila": 10,
+      "columna": 8
+    },
+    {
+      "fila": 11,
+      "columna": 5
+    },
+    {
+      "fila": 11,
+      "columna": 6
+    },
+    {
+      "fila": 11,
+      "columna": 7
+    },
+    {
+      "fila": 11,
+      "columna": 8
+    },
+    {
+      "fila": 12,
+      "columna": 5
+    },
+    {
+      "fila": 12,
+      "columna": 6
+    },
+    {
+      "fila": 12,
+      "columna": 7
+    },
+    {
+      "fila": 12,
+      "columna": 8
+    },
+    {
+      "fila": 9,
+      "columna": 13
+    },
+    {
+      "fila": 9,
+      "columna": 14
+    },
+    {
+      "fila": 9,
+      "columna": 15
+    },
+    {
+      "fila": 9,
+      "columna": 16
+    },
+    {
+      "fila": 10,
+      "columna": 13
+    },
+    {
+      "fila": 10,
+      "columna": 14
+    },
+    {
+      "fila": 10,
+      "columna": 15
+    },
+    {
+      "fila": 10,
+      "columna": 16
+    },
+    {
+      "fila": 11,
+      "columna": 13
+    },
+    {
+      "fila": 11,
+      "columna": 14
+    },
+    {
+      "fila": 11,
+      "columna": 15
+    },
+    {
+      "fila": 11,
+      "columna": 16
+    },
+    {
+      "fila": 12,
+      "columna": 13
+    },
+    {
+      "fila": 12,
+      "columna": 14
+    },
+    {
+      "fila": 12,
+      "columna": 15
+    },
+    {
+      "fila": 12,
+      "columna": 16
+    },
+    {
+      "fila": 9,
+      "columna": 21
+    },
+    {
+      "fila": 9,
+      "columna": 22
+    },
+    {
+      "fila": 9,
+      "columna": 23
+    },
+    {
+      "fila": 9,
+      "columna": 24
+    },
+    {
+      "fila": 10,
+      "columna": 21
+    },
+    {
+      "fila": 10,
+      "columna": 22
+    },
+    {
+      "fila": 10,
+      "columna": 23
+    },
+    {
+      "fila": 10,
+      "columna": 24
+    },
+    {
+      "fila": 11,
+      "columna": 21
+    },
+    {
+      "fila": 11,
+      "columna": 22
+    },
+    {
+      "fila": 11,
+      "columna": 23
+    },
+    {
+      "fila": 11,
+      "columna": 24
+    },
+    {
+      "fila": 12,
+      "columna": 21
+    },
+    {
+      "fila": 12,
+      "columna": 22
+    },
+    {
+      "fila": 12,
+      "columna": 23
+    },
+    {
+      "fila": 12,
+      "columna": 24
+    },
+    {
+      "fila": 9,
+      "columna": 29
+    },
+    {
+      "fila": 9,
+      "columna": 30
+    },
+    {
+      "fila": 9,
+      "columna": 31
+    },
+    {
+      "fila": 9,
+      "columna": 32
+    },
+    {
+      "fila": 10,
+      "columna": 29
+    },
+    {
+      "fila": 10,
+      "columna": 30
+    },
+    {
+      "fila": 10,
+      "columna": 31
+    },
+    {
+      "fila": 10,
+      "columna": 32
+    },
+    {
+      "fila": 11,
+      "columna": 29
+    },
+    {
+      "fila": 11,
+      "columna": 30
+    },
+    {
+      "fila": 11,
+      "columna": 31
+    },
+    {
+      "fila": 11,
+      "columna": 32
+    },
+    {
+      "fila": 12,
+      "columna": 29
+    },
+    {
+      "fila": 12,
+      "columna": 30
+    },
+    {
+      "fila": 12,
+      "columna": 31
+    },
+    {
+      "fila": 12,
+      "columna": 32
+    },
+    {
+      "fila": 15,
+      "columna": 5
+    },
+    {
+      "fila": 15,
+      "columna": 6
+    },
+    {
+      "fila": 15,
+      "columna": 7
+    },
+    {
+      "fila": 15,
+      "columna": 8
+    },
+    {
+      "fila": 16,
+      "columna": 5
+    },
+    {
+      "fila": 16,
+      "columna": 6
+    },
+    {
+      "fila": 16,
+      "columna": 7
+    },
+    {
+      "fila": 16,
+      "columna": 8
+    },
+    {
+      "fila": 17,
+      "columna": 5
+    },
+    {
+      "fila": 17,
+      "columna": 6
+    },
+    {
+      "fila": 17,
+      "columna": 7
+    },
+    {
+      "fila": 17,
+      "columna": 8
+    },
+    {
+      "fila": 18,
+      "columna": 5
+    },
+    {
+      "fila": 18,
+      "columna": 6
+    },
+    {
+      "fila": 18,
+      "columna": 7
+    },
+    {
+      "fila": 18,
+      "columna": 8
+    },
+    {
+      "fila": 15,
+      "columna": 13
+    },
+    {
+      "fila": 15,
+      "columna": 14
+    },
+    {
+      "fila": 15,
+      "columna": 15
+    },
+    {
+      "fila": 15,
+      "columna": 16
+    },
+    {
+      "fila": 16,
+      "columna": 13
+    },
+    {
+      "fila": 16,
+      "columna": 14
+    },
+    {
+      "fila": 16,
+      "columna": 15
+    },
+    {
+      "fila": 16,
+      "columna": 16
+    },
+    {
+      "fila": 17,
+      "columna": 13
+    },
+    {
+      "fila": 17,
+      "columna": 14
+    },
+    {
+      "fila": 17,
+      "columna": 15
+    },
+    {
+      "fila": 17,
+      "columna": 16
+    },
+    {
+      "fila": 18,
+      "columna": 13
+    },
+    {
+      "fila": 18,
+      "columna": 14
+    },
+    {
+      "fila": 18,
+      "columna": 15
+    },
+    {
+      "fila": 18,
+      "columna": 16
+    },
+    {
+      "fila": 15,
+      "columna": 21
+    },
+    {
+      "fila": 15,
+      "columna": 22
+    },
+    {
+      "fila": 15,
+      "columna": 23
+    },
+    {
+      "fila": 15,
+      "columna": 24
+    },
+    {
+      "fila": 16,
+      "columna": 21
+    },
+    {
+      "fila": 16,
+      "columna": 22
+    },
+    {
+      "fila": 16,
+      "columna": 23
+    },
+    {
+      "fila": 16,
+      "columna": 24
+    },
+    {
+      "fila": 17,
+      "columna": 21
+    },
+    {
+      "fila": 17,
+      "columna": 22
+    },
+    {
+      "fila": 17,
+      "columna": 23
+    },
+    {
+      "fila": 17,
+      "columna": 24
+    },
+    {
+      "fila": 18,
+      "columna": 21
+    },
+    {
+      "fila": 18,
+      "columna": 22
+    },
+    {
+      "fila": 18,
+      "columna": 23
+    },
+    {
+      "fila": 18,
+      "columna": 24
+    },
+    {
+      "fila": 15,
+      "columna": 29
+    },
+    {
+      "fila": 15,
+      "columna": 30
+    },
+    {
+      "fila": 15,
+      "columna": 31
+    },
+    {
+      "fila": 15,
+      "columna": 32
+    },
+    {
+      "fila": 16,
+      "columna": 29
+    },
+    {
+      "fila": 16,
+      "columna": 30
+    },
+    {
+      "fila": 16,
+      "columna": 31
+    },
+    {
+      "fila": 16,
+      "columna": 32
+    },
+    {
+      "fila": 17,
+      "columna": 29
+    },
+    {
+      "fila": 17,
+      "columna": 30
+    },
+    {
+      "fila": 17,
+      "columna": 31
+    },
+    {
+      "fila": 17,
+      "columna": 32
+    },
+    {
+      "fila": 18,
+      "columna": 29
+    },
+    {
+      "fila": 18,
+      "columna": 30
+    },
+    {
+      "fila": 18,
+      "columna": 31
+    },
+    {
+      "fila": 18,
+      "columna": 32
+    }
+  ],
+  "zonas_productos": {
+    "lacteos": {
+      "fila": 3,
+      "columna": 4,
+      "productos": [
+        1,
+        5,
+        12,
+        13
+      ]
+    },
+    "panaderia": {
+      "fila": 3,
+      "columna": 10,
+      "productos": [
+        2
+      ]
+    },
+    "granos": {
+      "fila": 3,
+      "columna": 12,
+      "productos": [
+        3,
+        6,
+        22,
+        23
+      ]
+    },
+    "aceites": {
+      "fila": 3,
+      "columna": 18,
+      "productos": [
+        4
+      ]
+    },
+    "endulzantes": {
+      "fila": 3,
+      "columna": 20,
+      "productos": [
+        7
+      ]
+    },
+    "condimentos": {
+      "fila": 3,
+      "columna": 26,
+      "productos": [
+        8
+      ]
+    },
+    "limpieza": {
+      "fila": 9,
+      "columna": 4,
+      "productos": [
+        9
+      ]
+    },
+    "higiene": {
+      "fila": 9,
+      "columna": 10,
+      "productos": [
+        10,
+        11
+      ]
+    },
+    "frutas": {
+      "fila": 9,
+      "columna": 12,
+      "productos": [
+        14,
+        15
+      ]
+    },
+    "verduras": {
+      "fila": 9,
+      "columna": 18,
+      "productos": [
+        16,
+        17,
+        18
+      ]
+    },
+    "carnes": {
+      "fila": 9,
+      "columna": 20,
+      "productos": [
+        19,
+        20
+      ]
+    },
+    "pescados": {
+      "fila": 9,
+      "columna": 26,
+      "productos": [
+        21
+      ]
+    },
+    "bebidas": {
+      "fila": 15,
+      "columna": 4,
+      "productos": [
+        24,
+        25,
+        26
+      ]
+    },
+    "snacks": {
+      "fila": 15,
+      "columna": 10,
+      "productos": [
+        27,
+        28
+      ]
+    },
+    "conservas": {
+      "fila": 15,
+      "columna": 12,
+      "productos": [
+        29
+      ]
+    },
+    "salsas": {
+      "fila": 15,
+      "columna": 18,
+      "productos": [
+        30
+      ]
+    }
+  }
+}

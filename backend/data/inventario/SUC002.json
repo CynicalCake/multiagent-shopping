@@ -1,0 +1,186 @@
+{
+  "sucursal_id": "SUC002",
+  "nombre": "Hipermaxi - Torres Sófer",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Leche Descremada 1L",
+      "precio": 9.0,
+      "categoria": "lacteos"
+    },
+    {
+      "id": 2,
+      "nombre": "Pan Francés x5",
+      "precio": 4.5,
+      "categoria": "panaderia"
+    },
+    {
+      "id": 3,
+      "nombre": "Arroz Integral 1kg",
+      "precio": 13.5,
+      "categoria": "granos"
+    },
+    {
+      "id": 4,
+      "nombre": "Aceite de Oliva 500ml",
+      "precio": 32.0,
+      "categoria": "aceites"
+    },
+    {
+      "id": 5,
+      "nombre": "Huevos Orgánicos x12",
+      "precio": 22.0,
+      "categoria": "lacteos"
+    },
+    {
+      "id": 6,
+      "nombre": "Pasta Integral 500g",
+      "precio": 8.0,
+      "categoria": "granos"
+    },
+    {
+      "id": 7,
+      "nombre": "Miel de Abeja 500g",
+      "precio": 28.0,
+      "categoria": "endulzantes"
+    },
+    {
+      "id": 8,
+      "nombre": "Sal Marina 1kg",
+      "precio": 6.0,
+      "categoria": "condimentos"
+    },
+    {
+      "id": 9,
+      "nombre": "Detergente Ecológico 1L",
+      "precio": 25.0,
+      "categoria": "limpieza"
+    },
+    {
+      "id": 10,
+      "nombre": "Jabón Líquido x2",
+      "precio": 18.0,
+      "categoria": "higiene"
+    },
+    {
+      "id": 11,
+      "nombre": "Papel Higiénico Premium x6",
+      "precio": 24.0,
+      "categoria": "higiene"
+    },
+    {
+      "id": 12,
+      "nombre": "Yogurt Griego 1L",
+      "precio": 15.0,
+      "categoria": "lacteos"
+    },
+    {
+      "id": 13,
+      "nombre": "Queso Mozzarella 400g",
+      "precio": 32.0,
+      "categoria": "lacteos"
+    },
+    {
+      "id": 14,
+      "nombre": "Manzanas Rojas 1kg",
+      "precio": 16.0,
+      "categoria": "frutas"
+    },
+    {
+      "id": 15,
+      "nombre": "Uvas Verdes 500g",
+      "precio": 18.0,
+      "categoria": "frutas"
+    },
+    {
+      "id": 16,
+      "nombre": "Tomates Cherry 500g",
+      "precio": 12.0,
+      "categoria": "verduras"
+    },
+    {
+      "id": 17,
+      "nombre": "Lechuga Crespa",
+      "precio": 5.0,
+      "categoria": "verduras"
+    },
+    {
+      "id": 18,
+      "nombre": "Brócoli 500g",
+      "precio": 14.0,
+      "categoria": "verduras"
+    },
+    {
+      "id": 19,
+      "nombre": "Carne Molida 1kg",
+      "precio": 42.0,
+      "categoria": "carnes"
+    },
+    {
+      "id": 20,
+      "nombre": "Pechuga de Pollo 1kg",
+      "precio": 38.0,
+      "categoria": "carnes"
+    },
+    {
+      "id": 21,
+      "nombre": "Salmón Fresco 500g",
+      "precio": 65.0,
+      "categoria": "pescados"
+    },
+    {
+      "id": 22,
+      "nombre": "Garbanzos 500g",
+      "precio": 9.0,
+      "categoria": "granos"
+    },
+    {
+      "id": 23,
+      "nombre": "Avena 500g",
+      "precio": 8.5,
+      "categoria": "granos"
+    },
+    {
+      "id": 24,
+      "nombre": "Café Gourmet 250g",
+      "precio": 28.0,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 25,
+      "nombre": "Té Verde x20",
+      "precio": 12.0,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 26,
+      "nombre": "Agua Mineral 6x500ml",
+      "precio": 15.0,
+      "categoria": "bebidas"
+    },
+    {
+      "id": 27,
+      "nombre": "Galletas Integrales 200g",
+      "precio": 9.5,
+      "categoria": "snacks"
+    },
+    {
+      "id": 28,
+      "nombre": "Chocolate Amargo 100g",
+      "precio": 12.0,
+      "categoria": "snacks"
+    },
+    {
+      "id": 29,
+      "nombre": "Mermelada Sin Azúcar 300g",
+      "precio": 18.0,
+      "categoria": "conservas"
+    },
+    {
+      "id": 30,
+      "nombre": "Mostaza Dijon 250g",
+      "precio": 14.0,
+      "categoria": "salsas"
+    }
+  ]
+}

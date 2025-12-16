@@ -1,0 +1,266 @@
+{
+  "sucursal_id": "SUC007",
+  "nombre": "Hipermaxi - Villazón",
+  "dimensiones": {
+    "filas": 26,
+    "columnas": 32
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 16,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {"id": "CAJ001", "fila": 25, "columna": 11},
+    {"id": "CAJ002", "fila": 25, "columna": 16},
+    {"id": "CAJ003", "fila": 25, "columna": 21}
+  ],
+  "obstaculos": [
+    {"fila": 4, "columna": 6}, {"fila": 4, "columna": 7},
+    {"fila": 5, "columna": 6}, {"fila": 5, "columna": 7},
+    {"fila": 6, "columna": 6}, {"fila": 6, "columna": 7},
+    {"fila": 7, "columna": 6}, {"fila": 7, "columna": 7},
+    
+    {"fila": 4, "columna": 13}, {"fila": 4, "columna": 14},
+    {"fila": 5, "columna": 13}, {"fila": 5, "columna": 14},
+    {"fila": 6, "columna": 13}, {"fila": 6, "columna": 14},
+    {"fila": 7, "columna": 13}, {"fila": 7, "columna": 14},
+    
+    {"fila": 4, "columna": 20}, {"fila": 4, "columna": 21},
+    {"fila": 5, "columna": 20}, {"fila": 5, "columna": 21},
+    {"fila": 6, "columna": 20}, {"fila": 6, "columna": 21},
+    {"fila": 7, "columna": 20}, {"fila": 7, "columna": 21},
+    
+    {"fila": 4, "columna": 27}, {"fila": 4, "columna": 28},
+    {"fila": 5, "columna": 27}, {"fila": 5, "columna": 28},
+    {"fila": 6, "columna": 27}, {"fila": 6, "columna": 28},
+    {"fila": 7, "columna": 27}, {"fila": 7, "columna": 28},
+    
+    {"fila": 11, "columna": 6}, {"fila": 11, "columna": 7},
+    {"fila": 12, "columna": 6}, {"fila": 12, "columna": 7},
+    {"fila": 13, "columna": 6}, {"fila": 13, "columna": 7},
+    {"fila": 14, "columna": 6}, {"fila": 14, "columna": 7},
+    
+    {"fila": 11, "columna": 13}, {"fila": 11, "columna": 14},
+    {"fila": 12, "columna": 13}, {"fila": 12, "columna": 14},
+    {"fila": 13, "columna": 13}, {"fila": 13, "columna": 14},
+    {"fila": 14, "columna": 13}, {"fila": 14, "columna": 14},
+    
+    {"fila": 11, "columna": 20}, {"fila": 11, "columna": 21},
+    {"fila": 12, "columna": 20}, {"fila": 12, "columna": 21},
+    {"fila": 13, "columna": 20}, {"fila": 13, "columna": 21},
+    {"fila": 14, "columna": 20}, {"fila": 14, "columna": 21},
+    
+    {"fila": 11, "columna": 27}, {"fila": 11, "columna": 28},
+    {"fila": 12, "columna": 27}, {"fila": 12, "columna": 28},
+    {"fila": 13, "columna": 27}, {"fila": 13, "columna": 28},
+    {"fila": 14, "columna": 27}, {"fila": 14, "columna": 28},
+    
+    {"fila": 18, "columna": 6}, {"fila": 18, "columna": 7},
+    {"fila": 19, "columna": 6}, {"fila": 19, "columna": 7},
+    {"fila": 20, "columna": 6}, {"fila": 20, "columna": 7},
+    {"fila": 21, "columna": 6}, {"fila": 21, "columna": 7},
+    
+    {"fila": 18, "columna": 13}, {"fila": 18, "columna": 14},
+    {"fila": 19, "columna": 13}, {"fila": 19, "columna": 14},
+    {"fila": 20, "columna": 13}, {"fila": 20, "columna": 14},
+    {"fila": 21, "columna": 13}, {"fila": 21, "columna": 14},
+    
+    {"fila": 18, "columna": 20}, {"fila": 18, "columna": 21},
+    {"fila": 19, "columna": 20}, {"fila": 19, "columna": 21},
+    {"fila": 20, "columna": 20}, {"fila": 20, "columna": 21},
+    {"fila": 21, "columna": 20}, {"fila": 21, "columna": 21},
+    
+    {"fila": 18, "columna": 27}, {"fila": 18, "columna": 28},
+    {"fila": 19, "columna": 27}, {"fila": 19, "columna": 28},
+    {"fila": 20, "columna": 27}, {"fila": 20, "columna": 28},
+    {"fila": 21, "columna": 27}, {"fila": 21, "columna": 28}
+  ],
+  "zonas_productos": {
+    "Lácteos": {
+      "fila": 4,
+      "columna": 5,
+      "productos": [1]
+    },
+    "Huevos": {
+      "fila": 5,
+      "columna": 8,
+      "productos": [5]
+    },
+    "Panadería": {
+      "fila": 6,
+      "columna": 5,
+      "productos": [2]
+    },
+    "Pan Dulce": {
+      "fila": 7,
+      "columna": 8,
+      "productos": [2]
+    },
+    "Arroz": {
+      "fila": 4,
+      "columna": 12,
+      "productos": [3]
+    },
+    "Pasta": {
+      "fila": 5,
+      "columna": 15,
+      "productos": [6]
+    },
+    "Aceite": {
+      "fila": 6,
+      "columna": 12,
+      "productos": [4]
+    },
+    "Aceite Premium": {
+      "fila": 7,
+      "columna": 15,
+      "productos": [4]
+    },
+    "Azúcar": {
+      "fila": 4,
+      "columna": 19,
+      "productos": [7]
+    },
+    "Sal y Condimentos": {
+      "fila": 5,
+      "columna": 22,
+      "productos": [8]
+    },
+    "Miel": {
+      "fila": 6,
+      "columna": 19,
+      "productos": [24]
+    },
+    "Especias": {
+      "fila": 7,
+      "columna": 22,
+      "productos": [8]
+    },
+    "Detergente": {
+      "fila": 4,
+      "columna": 26,
+      "productos": [9]
+    },
+    "Jabón": {
+      "fila": 5,
+      "columna": 29,
+      "productos": [10]
+    },
+    "Shampoo": {
+      "fila": 6,
+      "columna": 26,
+      "productos": [11]
+    },
+    "Papel Higiénico": {
+      "fila": 7,
+      "columna": 29,
+      "productos": [12]
+    },
+    "Manzanas": {
+      "fila": 11,
+      "columna": 5,
+      "productos": [13]
+    },
+    "Naranjas": {
+      "fila": 12,
+      "columna": 8,
+      "productos": [14]
+    },
+    "Plátanos": {
+      "fila": 13,
+      "columna": 5,
+      "productos": [15]
+    },
+    "Tomates": {
+      "fila": 14,
+      "columna": 8,
+      "productos": [16]
+    },
+    "Cebollas": {
+      "fila": 11,
+      "columna": 12,
+      "productos": [17]
+    },
+    "Pollo": {
+      "fila": 12,
+      "columna": 15,
+      "productos": [18]
+    },
+    "Carne Res": {
+      "fila": 13,
+      "columna": 12,
+      "productos": [19]
+    },
+    "Pescado": {
+      "fila": 14,
+      "columna": 15,
+      "productos": [20]
+    },
+    "Atún Enlatado": {
+      "fila": 11,
+      "columna": 19,
+      "productos": [21]
+    },
+    "Frijoles": {
+      "fila": 12,
+      "columna": 22,
+      "productos": [22]
+    },
+    "Jugo": {
+      "fila": 13,
+      "columna": 19,
+      "productos": [23]
+    },
+    "Refrescos": {
+      "fila": 14,
+      "columna": 22,
+      "productos": [25, 26]
+    },
+    "Galletas": {
+      "fila": 11,
+      "columna": 26,
+      "productos": [27]
+    },
+    "Papas Fritas": {
+      "fila": 12,
+      "columna": 29,
+      "productos": [28]
+    },
+    "Mermelada": {
+      "fila": 18,
+      "columna": 5,
+      "productos": [29]
+    },
+    "Mantequilla": {
+      "fila": 19,
+      "columna": 8,
+      "productos": [30]
+    },
+    "Mayonesa": {
+      "fila": 20,
+      "columna": 5,
+      "productos": [31]
+    },
+    "Ketchup": {
+      "fila": 21,
+      "columna": 8,
+      "productos": [32]
+    },
+    "Mostaza": {
+      "fila": 18,
+      "columna": 12,
+      "productos": [33]
+    },
+    "Avena": {
+      "fila": 19,
+      "columna": 15,
+      "productos": [34]
+    },
+    "Cereal": {
+      "fila": 20,
+      "columna": 12,
+      "productos": [35]
+    }
+  }
+}

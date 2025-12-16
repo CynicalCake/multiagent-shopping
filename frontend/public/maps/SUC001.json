@@ -1,0 +1,121 @@
+{
+  "sucursal_id": "SUC001",
+  "nombre": "Hipermaxi - Circunvalación",
+  "dimensiones": {
+    "filas": 20,
+    "columnas": 30
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 15,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {
+      "id": "CAJ001",
+      "fila": 19,
+      "columna": 10
+    },
+    {
+      "id": "CAJ002",
+      "fila": 19,
+      "columna": 20
+    }
+  ],
+  "obstaculos": [
+    {"fila": 2, "columna": 10},
+    {"fila": 2, "columna": 11},
+    {"fila": 2, "columna": 12},
+    {"fila": 6, "columna": 10},
+    {"fila": 6, "columna": 11},
+    {"fila": 6, "columna": 12},
+    {"fila": 10, "columna": 10},
+    {"fila": 10, "columna": 11},
+    {"fila": 10, "columna": 12},
+    {"fila": 14, "columna": 10},
+    {"fila": 14, "columna": 11},
+    {"fila": 14, "columna": 12}
+  ],
+  "zonas_productos": {
+    "lacteos": {
+      "fila": 5,
+      "columna": 5,
+      "productos": [1, 5, 12, 13, 31]
+    },
+    "panaderia": {
+      "fila": 5,
+      "columna": 25,
+      "productos": [2]
+    },
+    "granos": {
+      "fila": 9,
+      "columna": 5,
+      "productos": [3, 6, 22, 23, 32]
+    },
+    "aceites": {
+      "fila": 9,
+      "columna": 15,
+      "productos": [4]
+    },
+    "endulzantes": {
+      "fila": 9,
+      "columna": 25,
+      "productos": [7]
+    },
+    "condimentos": {
+      "fila": 13,
+      "columna": 5,
+      "productos": [8, 33, 34, 35]
+    },
+    "limpieza": {
+      "fila": 13,
+      "columna": 15,
+      "productos": [9]
+    },
+    "higiene": {
+      "fila": 13,
+      "columna": 25,
+      "productos": [10, 11]
+    },
+    "frutas": {
+      "fila": 17,
+      "columna": 5,
+      "productos": [14, 15]
+    },
+    "verduras": {
+      "fila": 17,
+      "columna": 15,
+      "productos": [16, 17, 18]
+    },
+    "carnes": {
+      "fila": 17,
+      "columna": 25,
+      "productos": [19, 20]
+    },
+    "enlatados": {
+      "fila": 3,
+      "columna": 5,
+      "productos": [21]
+    },
+    "bebidas": {
+      "fila": 3,
+      "columna": 15,
+      "productos": [24, 25, 26]
+    },
+    "snacks": {
+      "fila": 3,
+      "columna": 25,
+      "productos": [27, 28]
+    },
+    "conservas": {
+      "fila": 7,
+      "columna": 5,
+      "productos": [29]
+    },
+    "salsas": {
+      "fila": 7,
+      "columna": 25,
+      "productos": [30]
+    }
+  }
+}

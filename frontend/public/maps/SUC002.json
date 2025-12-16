@@ -1,0 +1,134 @@
+{
+  "sucursal_id": "SUC002",
+  "nombre": "Ketal - Equipetrol",
+  "dimensiones": {
+    "filas": 25,
+    "columnas": 35
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 17,
+    "tipo": "entrada"
+  },
+  "cajeros": [
+    {
+      "id": "CAJ001",
+      "fila": 24,
+      "columna": 12
+    },
+    {
+      "id": "CAJ002",
+      "fila": 24,
+      "columna": 22
+    },
+    {
+      "id": "CAJ003",
+      "fila": 24,
+      "columna": 32
+    }
+  ],
+  "obstaculos": [
+    {"fila": 3, "columna": 15},
+    {"fila": 3, "columna": 16},
+    {"fila": 3, "columna": 17},
+    {"fila": 3, "columna": 18},
+    {"fila": 3, "columna": 19},
+    {"fila": 8, "columna": 15},
+    {"fila": 8, "columna": 16},
+    {"fila": 8, "columna": 17},
+    {"fila": 8, "columna": 18},
+    {"fila": 8, "columna": 19},
+    {"fila": 13, "columna": 15},
+    {"fila": 13, "columna": 16},
+    {"fila": 13, "columna": 17},
+    {"fila": 13, "columna": 18},
+    {"fila": 13, "columna": 19},
+    {"fila": 18, "columna": 15},
+    {"fila": 18, "columna": 16},
+    {"fila": 18, "columna": 17},
+    {"fila": 18, "columna": 18},
+    {"fila": 18, "columna": 19}
+  ],
+  "zonas_productos": {
+    "lacteos": {
+      "fila": 5,
+      "columna": 7,
+      "productos": [1, 5, 12, 13]
+    },
+    "panaderia": {
+      "fila": 5,
+      "columna": 28,
+      "productos": [2]
+    },
+    "granos": {
+      "fila": 10,
+      "columna": 7,
+      "productos": [3, 6, 22, 23]
+    },
+    "aceites": {
+      "fila": 10,
+      "columna": 28,
+      "productos": [4]
+    },
+    "endulzantes": {
+      "fila": 15,
+      "columna": 7,
+      "productos": [7]
+    },
+    "condimentos": {
+      "fila": 15,
+      "columna": 28,
+      "productos": [8]
+    },
+    "limpieza": {
+      "fila": 20,
+      "columna": 7,
+      "productos": [9]
+    },
+    "higiene": {
+      "fila": 20,
+      "columna": 28,
+      "productos": [10, 11]
+    },
+    "frutas": {
+      "fila": 5,
+      "columna": 22,
+      "productos": [14, 15]
+    },
+    "verduras": {
+      "fila": 10,
+      "columna": 22,
+      "productos": [16, 17, 18]
+    },
+    "carnes": {
+      "fila": 15,
+      "columna": 22,
+      "productos": [19, 20]
+    },
+    "pescados": {
+      "fila": 20,
+      "columna": 22,
+      "productos": [21]
+    },
+    "bebidas": {
+      "fila": 2,
+      "columna": 7,
+      "productos": [24, 25, 26]
+    },
+    "snacks": {
+      "fila": 2,
+      "columna": 22,
+      "productos": [27, 28]
+    },
+    "conservas": {
+      "fila": 2,
+      "columna": 28,
+      "productos": [29]
+    },
+    "salsas": {
+      "fila": 7,
+      "columna": 28,
+      "productos": [30]
+    }
+  }
+}
